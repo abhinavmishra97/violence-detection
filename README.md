@@ -26,7 +26,7 @@ Ensure the following main libraries are installed: **pip install tensorflow open
 
 ## How to use:
 1. **Clone the Repository-**
-   - git clone https://github.com/rmall2003/violence-detection-ai.git
+   - git clone https://github.com/abhinavmishra97/violence-detection.git
    - cd violence-detection-ai
 2. **Download the Dataset-**
    - Download the [Real-Life Violence Situations Dataset](https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset) and place it in the dataset/ folder as described above.
